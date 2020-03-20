@@ -154,17 +154,12 @@ And the user uses those files or websites inappropriately
 Then the user will get temporarily banned for inappropriate use of account
 
 
-
-
-
-
-
-
 ### Project management
 
-Kanban screenshots
-Trello snapshots
- 
+![Inline image](Communications screenshot.PNG)
+
+![Inline image](Discord Communication Screenshot.png)
+
 ### References
 
 Guru99 2020, What is System Testing? Types & Definition with Example, Guru99, viewed 13 March 2020, 11:24 pm, <https://www.guru99.com/system-testing.htm l>
