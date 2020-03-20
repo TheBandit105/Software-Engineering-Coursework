@@ -72,12 +72,12 @@ When creating goals for a project, it is a good idea to follow the SMART criteri
 
 ### Test Process and Plans
 
-#### 4.1) Test Process
+4.1) Test Process
 
 Before the web game is released to the public, the product needs to undergo several test processes to make sure that the web game works in accordance with the requirement specifications that were outlined by the client. The overall test process will require the game to go through 4 main stages of testing in order for the game to be certified for use. The first stage of the 3 part test process is called the component (or unit) testing. This type of testing will help to identify any underlying issues with the components that make up the architecture of the game. This test is normally carried out by the developers of the game. After this, the individual components of the web game will be integrated together and will go through integration testing.
 This stage, the combined components are tested as a group to ensure that the integrated system is ready for system testing. The flow of the data from one group of components to the other is checked during this test. The system testing is the third stage of the testing process, where the web game is tested as a fully, integrated system. It is meant to check whether the system meets the requirements as asked for by the client and evaluates the functional and non-functional need for the testing. Finally, the acceptance testing is the last stage of the testing process, in which it is carried out in order to find out if the requirements of the specification are met as per its delivery. This part of the test process is done by the user or customer.
 
-#### 4.2) Component testing
+4.2) Component testing
   
 Component testing is a software testing type, and it’s the process of testing each individual component alone, separately from the other components, to make sure all the components work perfectly. The diagram below shows the process of testing out the individual components. 
 [1] 
@@ -89,7 +89,7 @@ Component testing varies from domain to domain and organization to organization,
 
 
 
-#### 4.3) System testing
+4.3) System testing
 
 System testing (ST) is simply the testing of the system in its entirety and fully integrated, which means that all the components are combined together in order to check and verify whether the system works as intended by the requirement specifications or not. ST is a type of testing that is known as black box testing, which assesses the running of the given system from a user point of view, given the specification document. This testing is important for many reasons. First of all, system testing allows for completing a full test cycle and secondly, it is carried out in an environment which is almost like the production environment and thus stakeholders can get a good concept of how the user will react to the system. This will lead to the reduction of after-deployment troubleshooting and calls for support on the usage of the system once the product goes live to the public. In this case, once the parts of the game have been tested individually, tested together and assembled, the game needs to go through ST. The game will be checked for different aspects, as clearly stated in the requirements, such as if performance of the game will run smoothly on any device used, if the graphics of the game are nicely designed and free of any bugs and if the user controls (e.g. using the WASD keys) work correctly as they should for the game. ST will also check and assess the other aspects of the web game such as the load capacity and security testing.
 
@@ -102,8 +102,7 @@ System testing (ST) is simply the testing of the system in its entirety and full
 
 [2]
 
-
-#### 4.4) Acceptance testing
+4.4) Acceptance testing
 
 Axel 
 
@@ -119,7 +118,7 @@ Axel
 
 ### Test cases    
 
-#### Valid Login:
+Valid Login:
 Scenario: Logging in with valid credentials
 Given the user is on the login page
 When the user enters their credentials
@@ -127,7 +126,7 @@ And they enter the right Username and/or Password
 And they click login
 Then they should be directed to the Main Menu
 
-#### Invalid Login:
+Invalid Login:
 Scenario: Logging in with invalid credentials
 Given the user is on the login page
 When they enter their credentials
@@ -137,7 +136,7 @@ Then they should be redirected to the login page again with the message "Invalid
 
 
 
-#### New High-score entry:
+New High-score entry:
 Scenario: Adding a new highscore entry
 Given the user is working on a scenario
 And the user finishes the scenario
@@ -145,7 +144,7 @@ And the score they recieve is the highest achieved for the said scenario
 Then this new score should be shown on their profile and on the leaderboard
 
 
-#### Sanitising User entered text:
+Sanitising User entered text:
 Scenario: Inappropriate use of account
 Given the user is trying to access files and websites that are not meant to be accessed
 And the user successfully accessed the files of websites
