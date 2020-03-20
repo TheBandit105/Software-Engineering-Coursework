@@ -175,3 +175,5 @@ Guru99 2020, What is Component Testing? Techniques, Example Test Cases, Guru99, 
 Google.com. 2020. Gherkin Code Test Cases - Google Search. [online] Available at: <https://www.google.com/search?client=firefox-b-d&q=gherkin+code+test+cases#kpvalbx=_9Y90XtnwF_Xggwfe7ovwCA25> [Accessed 17 March 2020].
 
 GeeksforGeeks 2020, System Testing, GeeksforGeeks, viewed 20 March 2020, 10:09 am, <https://www.geeksforgeeks.org/system-testing/>[2]
+
+Note: We used Discord over Trello for the communication part of the work as it was more easier to use and we had more experience with Discord than with Trello.
