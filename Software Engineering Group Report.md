@@ -78,7 +78,7 @@ This stage, the combined components are tested as a group to ensure that the int
 4.2) Component testing
   
 Component testing is a software testing type, and it’s the process of testing each individual component alone, separately from the other components, to make sure all the components work perfectly. The diagram below shows the process of testing out the individual components. 
-[1] 
+![Inline image](Component Testing Diagram.png)
 Component testing varies from domain to domain and organization to organization, and they differ depending on what type of Development Life Cycle model has been chosen, the complexity of the software/applications that’s being tested, and testing the components individually or with other components within the software. The systems Development Life Cycle is a theoretical model used in project management that explains the process involved in an information system development project, from an initial feasibility study through maintenance of the completed application. There are many different System Development Life Cycle methodologies, such as Rapid Applications Development, Build and Fix, and Synchronize-and-Stabilize, to guide the processes involved. The original System Development Life Cycle is Waterfall, and another common model is called Agile Software Development.
 
 
@@ -91,7 +91,7 @@ Component testing varies from domain to domain and organization to organization,
 
 System testing (ST) is simply the testing of the system in its entirety and fully integrated, which means that all the components are combined together in order to check and verify whether the system works as intended by the requirement specifications or not. ST is a type of testing that is known as black box testing, which assesses the running of the given system from a user point of view, given the specification document. This testing is important for many reasons. First of all, system testing allows for completing a full test cycle and secondly, it is carried out in an environment which is almost like the production environment and thus stakeholders can get a good concept of how the user will react to the system. This will lead to the reduction of after-deployment troubleshooting and calls for support on the usage of the system once the product goes live to the public. In this case, once the parts of the game have been tested individually, tested together and assembled, the game needs to go through ST. The game will be checked for different aspects, as clearly stated in the requirements, such as if performance of the game will run smoothly on any device used, if the graphics of the game are nicely designed and free of any bugs and if the user controls (e.g. using the WASD keys) work correctly as they should for the game. ST will also check and assess the other aspects of the web game such as the load capacity and security testing.
 
-
+![Inline image](System Testing Plan.png)
 
 
 
