@@ -1,0 +1,45 @@
+Scenario: Logging in with valid credentials
+Given the user is on the login page
+When the user enters their credentials
+And they enter the right Username and/or Password
+And they click login
+Then they should be directed to the Main Menu
+
+
+
+
+Scenario: Logging in with invalid credentials
+Given the user is on the login page
+When they enter their credentials
+And they enter the wrong Username and/or Password
+And they click login
+Then they should be redirected to the login page again with the message "Invalid credentials"
+
+
+
+
+
+Scenario: Adding a new highscore entry
+Given the user is working on a scenario
+And the user finishes the scenario
+And the score they recieve is the highest achieved for the said scenario
+Then this new score should be shown on their profile and on the leaderboard
+
+
+
+
+When creating goals for a project, it is a good idea to follow the SMART criteria. 
+These criteria include 5 factors, those being: Specific, Measurable, Achievable, Realistic and Timebound. 
+Choosing goals for a project means that being specific is vital. 
+This lets the developers know what you want as a final product and makes it easier and quicker for them to create it. 
+It also allows you to create goals which mean that you know what to expect with the outcome of the project. 
+When creating specific goals, you will most likely look at who you are going to involve achieving the goal of the product, in the case of this project it would be developers and designers as well as students as testers. 
+What you are trying to accomplish with this product can get very detailed, for the web-game however, we are trying to achieve a game that will act as a learning platform for students. 
+There may be requirements or stages of development that you will know beforehand will cause trouble, defining these will make things easier during future stages. 
+The goals that you specify should be measurable and you should define the way you will measure it as well. 
+For example, the popularity of the game amongst students for studying/revision purposes. 
+These goals should also be achievable, having small goals that lead up to a final major achievement is a good way to develop the web-game. 
+Setting realistic goals also means that a realistic time frame should be used. 
+As the web-game is supposed to be a 2D design with 3 different scenarios. 
+The 6 Month time frame should be enough. 
+This however should consider any problems that the developers may run into during development or during testing.
