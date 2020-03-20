@@ -8,8 +8,6 @@
 
 ### Actual Hours Spent: 18 Hours
 
-### Assignment Evaluation: 
-
 
 
 
