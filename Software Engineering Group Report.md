@@ -114,16 +114,8 @@ System testing (ST) is simply the testing of the system in its entirety and full
 
 4.4) Acceptance testing
 
-Axel 
-
-
-
-
-
-
-
-
-
+Acceptance testing is used at the end of the development cycle to determine whether the system requirements have been met. The results are given in a true or false matter. These tests are usually performed in collaboration with the buisness customers/analysts, this is to ensure that the tests are up to standard with the system requirements. The testing is meant to ensure that development is headed in the right direction and that the customers needs are satisfied. Acceptance testing is different from system testing as it does not test whether the system as a whole will crash, but rather that it satisfys the success criteria, which is often documented before development begins.
+Applying acceptance testing to the project at hand, it must test that the software is satisfactory at providing historic learning material, this can be done by using a “test scenario”, where a client using the software is simulated. This test can be observed by the stakeholders and buisness analysts to determine the acceptability of the software.
 
 
 ### Test cases    
