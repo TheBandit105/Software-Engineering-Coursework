@@ -55,6 +55,9 @@ The aim of this project is to create a web - based game, in which the users, bei
 ### Product plan
 
 During development it is crucial that the order in which the parts of the project are developed is outlined before production begins. Within the software engineering group, we also established a task board using Trello. This helped us to create goals for ourselves that could be seen by other members of the group, and also to give us a general direction when completing tasks.
+
+![Inline image](Trello Snapshot.png)
+
 As seen we set many goals with this task board and we could also use it to see which parts of the project team members had completed.
 When it comes to planning which parts of the project will be developed first, it seems logical to develop the crucial features of the program first. This would include the log in system, followed by the implementation of the puzzles. Then the databases for scoring can be worked on. The reasoning behind this is because the earlier a module is implemented, the earlier it can be tested to ensure it is robust. It should be known that the graphical side of the project should be completed last, as it does not directly contribute to the main cycle of the program, and therefore is not a high priority at the beginning of the development cycle.
 
