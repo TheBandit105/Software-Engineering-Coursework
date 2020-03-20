@@ -44,6 +44,12 @@
 
 
 
+
+
+
+
+
+
 ##Introduction
 
 The aim of this project is to create a web - based game, in which the users, being university students, will log in and play a history-based, graphical adventure game. When playing the game, the students will earn points for every correct solution provided to the puzzles given. In order for them to obtain the solutions to these puzzles, the students will have been expected to have read and understood many historical sources (e.g. books, internet etc.). The game will include several sub - systems which will work together in order for the game to run and function correctly as intended by the developers. For example, the game will feature a login system, where the user will create an account for the game. During the gameplay, the score achieved by the user will be recorded to the user’s id and stored in the database entry for the account. Another system is for the puzzle solutions, where the correct answers will be revealed after the user inputs their answers to the questions given in the game. The game will also feature a system where the users can use an inline forum, which will allow them to collaborate on ideas with other users doing the same course. The game will run on the university’s internet network and will use a separate web-server to deliver the pages across the network to any device, of the students’ choice, that is connected to the network.
