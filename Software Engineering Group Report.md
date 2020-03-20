@@ -1,13 +1,8 @@
-#### Module Code: CS1SE16
-
+#Module Code: CS1SE16
 #Assignment Report Title: Software Engineering Group Coursework 2
-
 #Student Number: 27015244, 28007374, 28010596, 28004779, vn011949 (Left the course)
-
 #Date Completed: 20/03/20
-
 #Actual Hours Spent: 18 Hours
-
 #Assignment Evaluation: 
 
 
