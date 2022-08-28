@@ -7,6 +7,5 @@ System testing (ST) is simply the testing of the system in its entirety, which m
 Written by Shavin Croos
 
 Links used:
-https://www.guru99.com/system-testing.html
-
-https://www.softwaretestinghelp.com/system-testing/
+- https://www.guru99.com/system-testing.html
+- https://www.softwaretestinghelp.com/system-testing/
