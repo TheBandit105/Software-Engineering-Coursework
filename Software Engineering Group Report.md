@@ -4,6 +4,8 @@
 
 ### Student Number: 27015244, 28007374, 28010596, 28004779, vn011949 (Left the course)
 
+### Authors: Charith Avancha Fragoso, Shavin Croos, Ali Hussein Fadel, Axel Wise (Note: Desmond Dakura left the course at the time of the coursework)
+
 ### Date Completed: 20/03/20
 
 ### Actual Hours Spent: 18 Hours
